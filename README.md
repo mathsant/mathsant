@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que utilizo no meu dia
+### Technologies I use in my daily life
 
 <div style="display: inline_block"><br/>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -19,5 +19,3 @@
     <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
-
-Buscando aprendizando em todas as oportunidades!

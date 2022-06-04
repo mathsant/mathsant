@@ -7,7 +7,7 @@
 
 ![Matheus Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=mathsant&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsant&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Tech's
 

@@ -10,6 +10,7 @@
     <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB">
     <img align="center" alt=".NET" src="https://img.shields.io/badge/platform-.NET-%23512BD4.svg?style=flat&logo=dotnet">
+    <br />
     <img align="center" alt="C#" src="https://img.shields.io/badge/language-C%23-%23239120.svg?style=flat&logo=c-sharp">
     <img align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
     <img align="center" alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white">
